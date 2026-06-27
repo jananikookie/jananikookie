@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Janani Kumar 👋
 
-<!--
-**jananikookie/jananikookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Computer Science graduate with an interest in building practical applications and continuously expanding my technical knowledge. I enjoy learning new technologies, solving problems, and developing projects that improve my programming and software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Programming Languages: Python, Java
+Web Technologies: HTML, CSS, JavaScript
+Database: MySQL,SQL
+Tools: Git, GitHub, VS Code
+Concepts: Object-Oriented Programming, DBMS
+
+## Featured Projects
+
+### AI-Powered Reading Companion
+A Flask-based application that helps users understand documents using NLP features such as summarization, translation, text-to-speech, vocabulary assistance, and MCQ generation.
+
+### NutriHealth
+A Flask and Machine Learning application that provides nutrition analysis, personalized diet recommendations, and health risk prediction.
+
+## Currently Learning
+
+- Data Structures and Algorithms
+
+## Connect with Me
+
+- LinkedIn: 
+- Email: jananimalar16@gmail.com
+
+"Learning continuously, building consistently, and growing one project at a time."
