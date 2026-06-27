@@ -6,11 +6,11 @@ I am a Computer Science graduate with an interest in building practical applicat
 
 ## Skills
 
-Programming Languages: Python, Java
-Web Technologies: HTML, CSS, JavaScript
-Database: MySQL,SQL
-Tools: Git, GitHub, VS Code
-Concepts: Object-Oriented Programming, DBMS
+- Programming Languages: Python, Java
+- Web Technologies: HTML, CSS, JavaScript
+- Database: MySQL,SQL
+- Tools: Git, GitHub, VS Code
+- Concepts: Object-Oriented Programming, DBMS
 
 ## Featured Projects
 
