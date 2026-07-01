@@ -26,7 +26,7 @@ A Flask and Machine Learning application that provides nutrition analysis, perso
 
 ## Connect with Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/jananikumar0624/
 - Email: jananimalar16@gmail.com
 
 "Learning continuously, building consistently, and growing one project at a time."
